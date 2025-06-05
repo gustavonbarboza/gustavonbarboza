@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Gustavo Barboza
 
-- 🔭 Desenvolvedor Full Stack em início de carreira com foco em JavaScript
-- 🌱 Estudando React e NodeJs
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavonbarboza&show_icons=true&hide=contribs&locale=en&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>

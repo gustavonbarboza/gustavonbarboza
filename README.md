@@ -16,6 +16,6 @@
   <a href="https://www.linkedin.com/in/gustavonbarboza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/gustavobarboza._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustabarboza37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.canva.com/design/DAEsEzYjrFw/D3ocO08z3Knq52NY90J6BQ/view?utm_content=DAEsEzYjrFw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h589a86da90" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-FFD700?style=for-the-badge&logo=read-the-docs&logoColor=black" alt="Currículo"></a>
-  <a href="https://gustavonbarboza.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://docs.google.com/document/d/1ZxSrhqrdSl1kaZ6OBtAcpYO4LkBO-k2RLvZEPZQNF0Q/edit?tab=t.0" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-FFD700?style=for-the-badge&logo=read-the-docs&logoColor=black" alt="Currículo"></a>
+  <a href="https://portfolio-v2-ten-xi-17.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"></a>
 </div> 
